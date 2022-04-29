@@ -1,0 +1,39 @@
+.verde {
+    background-color: green;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.negro{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.texto{
+    color: white;
+}
+
+.ricepic{
+    height: auto;
+    width: 300px;
+}
+
+.eggspic{
+    height: auto;
+    width: 300px;
+}
+
+.hotcakespic{
+    height: auto;
+    width: 300px;
+}
+
+h1 {
+    text-align:center
+}
+
+.lista {
+    font-size: 20px;
+}
